@@ -6,17 +6,18 @@ A researcher and developer from Portugal 🇵🇹, specializing in distributed s
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RafaelAPB&theme=dracula)
 
-- 👨‍🎓 PhD Student at Técnico Lisboa, Fulbrighter and Visiting Researcher at MIT
+- 👨‍🎓 PhD Student at Técnico Lisboa, ex-Fulbrighter and previous Visiting Researcher at MIT.
 
 
-* 🔭 I’m currently working on zero knowledge proofs for light client based bridges, and the Secure Asset Transfer Protocol
+* 🔭 I’m currently working on zero-knowledge proofs for light client-based bridges, and the Secure Asset Transfer Protocol.
 
+* Rust 🦀, TS, Python, Solidity.
 
-- 👯 I’m looking to collaborate on academic papers on the areas of MEV, account abstraction, interoperability, and blockchain security.
+- 👯 I’m looking to collaborate on academic papers on the areas of MEV, interoperability, blockchain security, and blockchain privacy.
   
-- ❎ Big fan, contributor, mentor, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵)
+- ❎ Big fan, contributor, mentor, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵).
   
-- 💰 Building the next infrastructure layer for digital assets at IETF (SATP) 
+- 💰 Building the next infrastructure layer for digital assets at IETF (SATP).
   
 - 📫 <a href=https://rafaelapb.github.io/> My personal site can be accessed here.</a>
 
