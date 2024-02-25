@@ -1,23 +1,20 @@
 ### Hi, I'm Rafael 👋
 
-A researcher and developer from Portugal 🇵🇹, specializing in distributed systems and cyber-security. I have a passion for efficiency and scalability. My specialization areas span across distributed ledger interoperability ⛓️, digital identity (self sovereign identity), and security.
-
+A researcher and developer from Portugal 🇵🇹, specializing in distributed systems, interoperability, security, and privacy. I have a passion for efficiency and scalability.
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RafaelAPB&theme=dracula)
 
-- 👨‍🎓 PhD Student at Técnico Lisboa, ex-Fulbrighter and previous Visiting Researcher at MIT.
-
-
-* 🔭 I’m currently working on zero-knowledge proofs for light client-based bridges, and the Secure Asset Transfer Protocol.
-
-* Rust 🦀, TS, Python, Solidity.
-
-- 👯 I’m looking to collaborate on academic papers on the areas of MEV, interoperability, blockchain security, and blockchain privacy.
-  
-- ❎ Big fan, contributor, mentor, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵).
+- 👨‍🎓 PhD Student at Técnico Lisboa, Fulbrighter awardee, and previous Visiting Researcher at MIT.
   
 - 💰 Building the next infrastructure layer for digital assets at IETF (SATP).
+
+- Rust 🦀, TS, Python, Solidity.
+
+- 👯 I’m looking to collaborate on academic papers in the areas of MEV, interoperability, blockchain security, and blockchain privacy.
+  
+- ❎ Big fan, contributor, mentor, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵).
+
   
 - 📫 <a href=https://rafaelapb.github.io/> My personal site can be accessed here.</a>
 
