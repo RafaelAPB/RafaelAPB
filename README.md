@@ -9,11 +9,9 @@ A researcher and developer from Portugal 🇵🇹, specializing in distributed s
   
 - 💰 Building the next infrastructure layer for digital assets at IETF (SATP).
 
-- Rust 🦀, TS, Python, Solidity.
-
-- 👯 I’m looking to collaborate on academic papers in the areas of MEV, interoperability, blockchain security, and blockchain privacy.
+- Rust 🦀, TS, Golang, Python, Solidity.
   
-- ❎ Big fan, contributor, mentor, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵).
+- ❎ Big fan, contributor, mentor, maintainer, and supporter at Hyperledger Foundation (goo Hyperledger Cacti 🌵).
 
   
 - 📫 <a href=https://rafaelapb.github.io/> My personal site can be accessed here.</a>
