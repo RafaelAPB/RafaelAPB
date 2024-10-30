@@ -1,10 +1,10 @@
 ### Hi, I'm Rafael 👋
 
-A researcher and developer from Portugal 🇵🇹, specializing in distributed systems, security & privacy, and interoperability. I have spent the last 3 years building scalable and efficient systems at Blockdaemon.
+I'm an applied researcher and senior software engineer from Portugal 🇵🇹, specializing in distributed systems, security & privacy, and interoperability. I have spent the last 3 years building scalable and efficient systems at Blockdaemon and contributing to the state of the art in interoperability research.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RafaelAPB&theme=dracula)
 
-- 👨‍🎓 PhD in Computer Science from Técnico Lisboa, Fulbrighter awardee, Best Ph.D. thesis award (INESC-ID) and previous Visiting Researcher at MIT.
+- 👨‍🎓 PhD in Computer Science from Técnico Lisboa, Fulbrighter awardee, Best Ph.D. thesis award (INESC-ID), and previous Visiting Researcher at MIT.
   
 - 💰 Building the next infrastructure layer for digital assets at IETF (SATP).
 
